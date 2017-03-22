@@ -17,13 +17,13 @@ Relevant coursework: Statistical Computing, Statistics Methods for Research, Mar
 Exploratory Analysis and Modeling of Financial Time Series                     
 -	Collected and processed data of daily stock prices of 250 companies in the United States (Excel, R) 
 -	Cooperatively built models using GARCH family, Loess and Regression Spline (R)                     
-Influence of Monetary Policy on China’s Equity Index Based on SVAR Model        
-- Built SVAR model to explore the dynamic association between monetary policy and stock price (Eviews)
+<div align="left">Influence of Monetary Policy on China’s Equity Index Based on SVAR Model</div>                               
+- Built SVAR model to explore the dynamic association between monetary policy and stock price (Eviews)               
 - Conducted Impulse Response and Variance Decomposition based on SVAR model     
 ## Work Experience 
 Teaching Assistant, University of California, Davis                                 
 -	Led lab sections and discussion sections to help students with programming language (R and SAS) 
 -	Graded quiz, homework, group projects and exams (midterm and final)               
-<div align="left">Intern, Department of Research & Development, California Energy Commission(CEC)</div>   
--	Collaboratively designed methodologies to quantify benefits of CEC investments 
+<div align="left">Intern, Department of Research & Development, California Energy Commission(CEC)</div>                 
+-	Collaboratively designed methodologies to quantify benefits of CEC investments                              
 -	Built KPI views and dashboards to update progress of CEC’s projects using excel and R shiny
