@@ -5,7 +5,8 @@
 
 - Overall GPA:3.86/4.0       
 <div align="left">Department of Statistics, Zhongnan University of Economics and Law </div>                                                                                            
-<div align="left">Bachelor degree of Economics in Statistics                                                                   
+<div align="left">Bachelor degree of Economics in Statistics</div>   
+
 -	Overall GPA:3.82/4.0 (top 5%)                                                 
 Relevant coursework: Statistical Computing, Statistics Methods for Research, Marketing, Design of  
                    Experiment, Nonparametric Statistics, Multivariate Statistical Analysis, Time   
