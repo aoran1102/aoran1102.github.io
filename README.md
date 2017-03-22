@@ -44,6 +44,7 @@
 <h2 align="center"> Data Science Achivement Details</h2> 
 
 -  <a href=https://github.com/aoran1102/aoran1102.github.io/blob/master/CEC%2BIntern%2Bdetails.md>CEC Intern Details</a> 
+-  <a href=https://aoran1102.github.io/141B_group_project/>STAT 141B Final Project</a>
 
 
 
