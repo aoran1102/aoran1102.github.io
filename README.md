@@ -1,11 +1,11 @@
 
 ## Educational Background
-Department of Statistics, University of California, Davis                 Sept 2015-Jun 2017 (expected)
-Master degree of Science in Statistics 
--Overall GPA:3.86/4.0
-Department of Statistics, Zhongnan University of Economics and Law          Sept 2011-Jun 2015                                                       
-Bachelor degree of Economics in Statistics                                  
-	Overall GPA:3.82/4.0 (top 5%)
+Department of Statistics, University of California, Davis                                         
+Master degree of Science in Statistics                          
+-Overall GPA:3.86/4.0       
+Department of Statistics, Zhongnan University of Economics and Law                                                                                             
+Bachelor degree of Economics in Statistics                                                                   
+-	Overall GPA:3.82/4.0 (top 5%)                             
 Relevant coursework: Statistical Computing, Statistics Methods for Research, Marketing, Design of  
                    Experiment, Nonparametric Statistics, Multivariate Statistical Analysis, Time   
                    Sequence Analysis, Sampling Technique, Exploring Data Analysis, Econometrics             
