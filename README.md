@@ -17,7 +17,8 @@ Relevant coursework: Statistical Computing, Statistics Methods for Research, Mar
 Exploratory Analysis and Modeling of Financial Time Series                     
 -	Collected and processed data of daily stock prices of 250 companies in the United States (Excel, R) 
 -	Cooperatively built models using GARCH family, Loess and Regression Spline (R)         
-Influence of Monetary Policy on China’s Equity Index Based on SVAR Model                                                                  - Built SVAR model to explore the dynamic association between monetary policy and stock price (Eviews)
+Influence of Monetary Policy on China’s Equity Index Based on SVAR Model        
+- Built SVAR model to explore the dynamic association between monetary policy and stock price (Eviews)
 - Conducted Impulse Response and Variance Decomposition based on SVAR model     
 ## Work Experience 
 Teaching Assistant, University of California, Davis                                 
