@@ -41,3 +41,9 @@
 
 -	Collaboratively designed methodologies to quantify benefits of CEC investments                              
 -	Built KPI views and dashboards to update progress of CEC’s projects using excel and R shiny
+<h2 align="center"> Data Science Achivement Details</h2> 
+
+- 
+
+
+
