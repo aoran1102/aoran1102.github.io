@@ -24,6 +24,6 @@ Influence of Monetary Policy on China’s Equity Index Based on SVAR Model
 Teaching Assistant, University of California, Davis                                 
 -	Led lab sections and discussion sections to help students with programming language (R and SAS) 
 -	Graded quiz, homework, group projects and exams (midterm and final)               
-Intern, Department of Research & Development, California Energy Commission(CEC)     
+<div align="left">Intern, Department of Research & Development, California Energy Commission(CEC)</div>   
 -	Collaboratively designed methodologies to quantify benefits of CEC investments 
 -	Built KPI views and dashboards to update progress of CEC’s projects using excel and R shiny
