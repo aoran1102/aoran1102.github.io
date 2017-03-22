@@ -14,7 +14,8 @@ Relevant coursework: Statistical Computing, Statistics Methods for Research, Mar
 - Familiar with data visualization software Tableau and Shiny
 - Statistical analysis experience including STP, General Linear Model, ANOVA, Web Scraping, KNN, Time Series Analysis, High Dimensional Analysis, Wireless Data Analysis, Logistic, PCA, Discriminant Analysis, Monte Carlo Methods, Genetic Algorithm, SVM, ANN, Simulated Annealing, JEDI, Survival Analysis                 
 ## Research Experience
-Exploratory Analysis and Modeling of Financial Time Series                     
+<div align="left">Exploratory Analysis and Modeling of Financial Time Series</div>          
+
 -	Collected and processed data of daily stock prices of 250 companies in the United States (Excel, R) 
 -	Cooperatively built models using GARCH family, Loess and Regression Spline (R)                     
 <div align="left">Influence of Monetary Policy on China’s Equity Index Based on SVAR Model</div> 
@@ -23,7 +24,8 @@ Exploratory Analysis and Modeling of Financial Time Series
 - Conducted Impulse Response and Variance Decomposition based on SVAR model                               
 
 ## Work Experience 
-Teaching Assistant, University of California, Davis                                 
+<div align="left">Teaching Assistant, University of California, Davis</div>
+
 -	Led lab sections and discussion sections to help students with programming language (R and SAS) 
 -	Graded quiz, homework, group projects and exams (midterm and final)               
 <div align="left">Intern, Department of Research & Development, California Energy Commission(CEC)</div>   
