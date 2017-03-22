@@ -43,7 +43,7 @@
 -	Built KPI views and dashboards to update progress of CEC’s projects using excel and R shiny
 <h2 align="center"> Data Science Achivement Details</h2> 
 
-- 
+-  <a href=https://github.com/aoran1102/aoran1102.github.io/blob/master/CEC%2BIntern%2Bdetails.md>CEC Intern Details</a> 
 
 
 
