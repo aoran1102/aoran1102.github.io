@@ -16,7 +16,7 @@
 -	Performed feasibility analyses on upcoming game features, prioritizing those with the highest ROI for accelerated release, resulting in an 11% increase in gameplay and a 9% increase in Ad ARPDAU. 
 - Streamlined common game statistics requests using Snowflake SQL and educated stakeholders on utilizing it, decreasing repetitive data requests by 70%.
 
- <h3 align="left">getBIsmart.com, Irvine CA, Data Scientist</h3> 
+  <h3 align="left">getBIsmart.com, Irvine CA, Data Scientist</h3> 
 
 - Collaborated with product and marketing teams to conduct A/B tests and promotion campaigns, improving D60 retention rate by 50% and ARPDAU by 40% within 9 months.
 - Employed Linear Regression model to predict the net Lifetime revenue of players and recommended moving advertising dollars to more profitable channels, reducing User Acquisition costs by 15%.
@@ -24,13 +24,13 @@
 - Created 10 Tableau dashboards to monitor player engagement, retention rate, and in-app purchases.
 - Generated 3 data quality reports to assist data engineers in maintaining data accuracy and integrity, shrinking the error detection period to one day.
              
- <h3 align="left">California Energy Commission (CEC), Sacramento, CA, Data Analyst Intern</h3> 
+  <h3 align="left">California Energy Commission (CEC), Sacramento, CA, Data Analyst Intern</h3> 
 
 -	Developed JEDI (Job and Economy Development Impact) model with VBA for use in rating future projects’ benefit to the CEC.
 - Designed R-Shiny interactive dashboards to update and track the progress of 212 CEC projects and presented the findings to the Research and Development team each week.
 - Extracted and formatted data from PDF questionnaires using R, reducing data collecting time by 70%.
   
- <h3 align="left">UC Davis, Davis, CA, Teaching Assistant</h3> 
+  <h3 align="left">UC Davis, Davis, CA, Teaching Assistant</h3> 
 
 -	Led discussion sections to introduce SAS programming, including Regression, ANOVA, A/B test, Survival Analysis, Experimental Design, like Interim, Crossover, and Latin Square Design.
 - Held study sections to help students with R programming in Data Structure, Data Visualization, Regular Expression, Web Scrapping, Bootstrap, Machine Learning and Clustering.
