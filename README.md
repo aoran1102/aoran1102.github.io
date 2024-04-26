@@ -4,10 +4,6 @@ A senior level Data Analyst with 7 years of experience in data analytics, adept 
 
 
 <h2 align="center">Skills Highlight</h2>   
-- Data Analytics: A/B test, Machine Learning Models, Feasibility Analysis, JEDI, SWOT, Porter Five Forces Analysis
-- Software:	Microsoft Office, Word, Excel, PowerPoint, Google sheets, doc, slide, JIRA
-- Programming Languages:	R, SAS, Python, MATLAB, PostgreSQL, C Programming, and VBA
-- Data Visualization Tools:	Tableau, Google Analytics, Visual Studio, R Shiny, Periscope, and Draw-io
 
 - Data Analytics: A/B test, Machine Learning Models, Feasibility Analysis, JEDI, SWOT, Porter Five Forces Analysis
 - Software:	Microsoft Office, Word, Excel, PowerPoint, Google sheets, doc, slide, JIRA
