@@ -1,9 +1,9 @@
 
 <h2 align="center"> Skills Highlight</h2>   
 
-Software:	Microsoft Office, Word, Excel, PowerPoint, Google sheets, doc, slide, JIRA,
-Programming Languages:	R, SAS, Python, MATLAB, PostgreSQL, C Programming, and VBA
-Data Visualization Tools:	Tableau, Google Analytics, Visual Studio, R Shiny, Periscope, and Draw-io
+- Software:	Microsoft Office, Word, Excel, PowerPoint, Google sheets, doc, slide, JIRA,
+- Programming Languages:	R, SAS, Python, MATLAB, PostgreSQL, C Programming, and VBA
+- Data Visualization Tools:	Tableau, Google Analytics, Visual Studio, R Shiny, Periscope, and Draw-io
 
   <h2 align="center"> Educational Background </h2>
 
