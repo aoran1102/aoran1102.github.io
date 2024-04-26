@@ -1,5 +1,5 @@
 
-<h2 align="center"> Skills Highlight</h2>   
+<h2 align="center"><strong> Skills Highlight</h2>   
 
 - Data Analytics: A/B test, Machine Learning Models, Feasibility Analysis, JEDI, SWOT, Porter Five Forces Analysis
 - Software:	Microsoft Office, Word, Excel, PowerPoint, Google sheets, doc, slide, JIRA
@@ -30,11 +30,13 @@
 -	Developed JEDI (Job and Economy Development Impact) model with VBA for use in rating future projects’ benefit to the CEC.
 - Designed R-Shiny interactive dashboards to update and track the progress of 212 CEC projects and presented the findings to the Research and Development team each week.
 - Extracted and formatted data from PDF questionnaires using R, reducing data collecting time by 70%.
+  
+<div align="left">California Energy Commission (CEC), Sacramento, CA, Data Analyst Intern!</div>   
 
-<div align="left">UC Davis, Davis, CA, Teaching Assistant</div>   
- - Led discussion sections to introduce SAS programming, including Regression, ANOVA, A/B test, Survival Analysis, Experimental Design, like Interim, Crossover, and Latin Square Design.
- - Held study sections to help students with R programming in Data Structure, Data Visualization, Regular
- Expression, Web Scrapping, Bootstrap, Machine Learning and Clustering.
+-	Led discussion sections to introduce SAS programming, including Regression, ANOVA, A/B test, Survival Analysis, Experimental Design, like Interim, Crossover, and Latin Square Design.
+- Held study sections to help students with R programming in Data Structure, Data Visualization, Regular Expression, Web Scrapping, Bootstrap, Machine Learning and Clustering.
+
+
 
   <h2 align="center"> Educational Background </h2>
 
