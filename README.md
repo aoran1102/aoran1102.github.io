@@ -7,8 +7,7 @@
 - Data Visualization Tools:	Tableau, Google Analytics, Visual Studio, R Shiny, Periscope, and Draw-io
 
   <h2 align="center"> Work Experience </h2>  
-
-<div align="left" style="font-weight: bold; font-size: 60px;" >Mobilityware, Irvine CA, Data Analyst </div>
+  <h3 align="left">Mobilityware, Irvine CA, Data Analyst</h2>  
 
 - Conceptualized and designed themed and seasonal game events with designers and product managers, increasing game revenue by 14% on average during event periods.
 -	Created a user-friendly Tableau dashboard to aid holiday sale planning, boosting the in-app purchase revenue by 21% on average and reducing planning time to one day compared to the manual methods.
