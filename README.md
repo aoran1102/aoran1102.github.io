@@ -8,7 +8,7 @@
 
   <h2 align="center"> Work Experience </h2>  
 
-<div align="left"><strong> Mobilityware, Irvine CA, Data Analyst </div>
+<div align="left">Mobilityware, Irvine CA, Data Analyst </div>
 
 - Conceptualized and designed themed and seasonal game events with designers and product managers, increasing game revenue by 14% on average during event periods.
 -	Created a user-friendly Tableau dashboard to aid holiday sale planning, boosting the in-app purchase revenue by 21% on average and reducing planning time to one day compared to the manual methods.
@@ -17,7 +17,7 @@
 -	Performed feasibility analyses on upcoming game features, prioritizing those with the highest ROI for accelerated release, resulting in an 11% increase in gameplay and a 9% increase in Ad ARPDAU. 
 - Streamlined common game statistics requests using Snowflake SQL and educated stakeholders on utilizing it, decreasing repetitive data requests by 70%.
 
-<div align="left"><strong> getBIsmart.com, Irvine CA, Data Scientistm</div>   
+<div align="left">getBIsmart.com, Irvine CA, Data Scientistm</div>   
 
 - Collaborated with product and marketing teams to conduct A/B tests and promotion campaigns, improving D60 retention rate by 50% and ARPDAU by 40% within 9 months.
 - Employed Linear Regression model to predict the net Lifetime revenue of players and recommended moving advertising dollars to more profitable channels, reducing User Acquisition costs by 15%.
