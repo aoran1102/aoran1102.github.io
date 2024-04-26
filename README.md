@@ -32,9 +32,9 @@
 - Extracted and formatted data from PDF questionnaires using R, reducing data collecting time by 70%.
 
 <div align="left">UC Davis, Davis, CA, Teaching Assistant</div>   
-- Led discussion sections to introduce SAS programming, including Regression, ANOVA, A/B test, Survival Analysis, Experimental Design, like Interim, Crossover, and Latin Square Design.
-- Held study sections to help students with R programming in Data Structure, Data Visualization, Regular
-Expression, Web Scrapping, Bootstrap, Machine Learning and Clustering.
+ - Led discussion sections to introduce SAS programming, including Regression, ANOVA, A/B test, Survival Analysis, Experimental Design, like Interim, Crossover, and Latin Square Design.
+ - Held study sections to help students with R programming in Data Structure, Data Visualization, Regular
+ Expression, Web Scrapping, Bootstrap, Machine Learning and Clustering.
 
   <h2 align="center"> Educational Background </h2>
 
