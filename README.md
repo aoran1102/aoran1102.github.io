@@ -1,5 +1,11 @@
 
-<h2 align="center"> Educational Background </h2>
+<h2 align="center"> Skills Highlight</h2>   
+
+Software:	Microsoft Office, Word, Excel, PowerPoint, Google sheets, doc, slide, JIRA,
+Programming Languages:	R, SAS, Python, MATLAB, PostgreSQL, C Programming, and VBA
+Data Visualization Tools:	Tableau, Google Analytics, Visual Studio, R Shiny, Periscope, and Draw-io
+
+  <h2 align="center"> Educational Background </h2>
 
 <div align="left">Department of Statistics, University of California, Davis </div>                                        
 <div align="left">Master degree of Science in Statistics</div> 
@@ -13,13 +19,7 @@
                      Design of Experiment, Nonparametric Statistics, Sampling Technique,
                      Multivariate Statistical Analysis, Time Sequence Analysis, Econometrics</div>
                      
-<h2 align="center"> Skills Highlight</h2>   
-
-- Experienced in Microsoft Office, SPSS, Eviews, R and SAS, Python, Matlab, SQL 
-- Familiar with data visualization software Tableau and Shiny
-- Statistical analysis experience including STP, General Linear Model, ANOVA, Web Scraping, 
-  KNN, Time Series Analysis, High Dimensional Analysis, Wireless Data Analysis, Logistic, 
-  PCA, Discriminant Analysis, Monte Carlo Methods, Genetic Algorithm, SVM,Survival Analysis                 
+                
 <h2 align="center"> Research Experience</h2>   
 
 <div align="left">Exploratory Analysis and Modeling of Financial Time Series</div>          
