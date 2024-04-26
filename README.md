@@ -8,7 +8,7 @@
 
   <h2 align="center"> Work Experience </h2>  
 
-<div align="left">Mobilityware, Irvine CA, Data Analyst </div>
+<div align="left" style="font-weight: bold; font-size: 20px;" >Mobilityware, Irvine CA, Data Analyst </div>
 
 - Conceptualized and designed themed and seasonal game events with designers and product managers, increasing game revenue by 14% on average during event periods.
 -	Created a user-friendly Tableau dashboard to aid holiday sale planning, boosting the in-app purchase revenue by 21% on average and reducing planning time to one day compared to the manual methods.
@@ -25,7 +25,7 @@
 - Created 10 Tableau dashboards to monitor player engagement, retention rate, and in-app purchases.
 - Generated 3 data quality reports to assist data engineers in maintaining data accuracy and integrity, shrinking the error detection period to one day.
              
-<div align="left"><strong> California Energy Commission (CEC), Sacramento, CA, Data Analyst Intern!</div>   
+<div align="left"> California Energy Commission (CEC), Sacramento, CA, Data Analyst Intern!</div>   
 
 -	Developed JEDI (Job and Economy Development Impact) model with VBA for use in rating future projects’ benefit to the CEC.
 - Designed R-Shiny interactive dashboards to update and track the progress of 212 CEC projects and presented the findings to the Research and Development team each week.
